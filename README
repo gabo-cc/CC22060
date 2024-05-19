@@ -1,0 +1,17 @@
+# Portafolio de ejercicios de la Materia Diseño Y Estructura De Computadoras
+# Presentado por: Gabriel Omar Calderón Calderón - CC22060
+
+# 1. Resta de tres enteros
+Escriba un programa para restar tres enteros, usando sólo registros de 16
+bits.
+Este programa en ensamblador resta tres números almacenados como caracteres ASCII ('6', '1', '1'), convierte el resultado a un carácter ASCII y lo muestra junto con un mensaje. El programa resta los números '1' y '1' del número '6'.
+
+# 2. Multiplicación.
+Escriba un programa para multiplicar dos números enteros, usando
+registros de 8 bits.
+Este programa multiplica los números '3' y '2', convierte el resultado a caracteres ASCII, y lo imprime junto con un mensaje en la salida estándar.
+
+# 3. División.
+Escriba un programa para dividir dos números enteros, usando registros
+de 32 bits.
+Este código demuestra cómo realizar una división de dos números en ensamblador, manejar conversiones entre ASCII y valores numéricos, y realizar operaciones de entrada y salida.
